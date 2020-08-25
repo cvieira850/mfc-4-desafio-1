@@ -1,0 +1,16 @@
+{
+  "name": "desafio-full-cycle",
+  "version": "1.0.0",
+  "description": "01 Desafio - Maratona 4.0 - Docker",
+  "author": "Caio Vieira <contato@caiovieira.com.br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
